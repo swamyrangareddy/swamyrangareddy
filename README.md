@@ -24,7 +24,7 @@
 - **AI-Powered ATS & Resume Intelligence Pipeline:** End-to-end resume parsing and candidate evaluation platform using Gemini API, Hugging Face models, AWS (EC2, S3, Glue, Lambda, Redshift), and MongoDB.
 - **X-Ray Weapon Detection System (YOLOv8):** Computer vision pipeline trained on a 70/10/20 split to detect knives and guns in airport baggage scans, deployed with a Streamlit interface.
 - **Automated Stripe ETL & Revenue Analytics:** Serverless AWS Lambda ETL pipeline extracting Stripe billing data into S3 with privacy masking and 24-hour refreshed Streamlit dashboards.
-- **Market & Portfolio Analytics Assistant:** Interactive analytics tool for tracking portfolios, market trends, IPOs, and mutual funds using React, Supabase, and Gemini API.
+
 
 ---
 
